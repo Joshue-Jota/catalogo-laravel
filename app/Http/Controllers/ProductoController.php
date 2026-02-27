@@ -12,6 +12,7 @@ class ProductoController extends Controller
     /**
      * Display a listing of the resource.
      */
+    // Controlador CRUD de productos
     public function index()
     {
         //
