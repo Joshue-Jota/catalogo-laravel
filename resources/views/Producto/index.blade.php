@@ -100,7 +100,7 @@
 </head>
 <body>
 
-<h1>🛒 Productos</h1>
+<h1>🛒 Listado de productoss</h1>
 
 <a href="{{ url('/producto/create') }}" class="btn-nuevo">➕ Registrar nuevo producto</a>
 <a href="{{ url('/') }}" class="btn-nuevo">Regresar al inicio</a>
